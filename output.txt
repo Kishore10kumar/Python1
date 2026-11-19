@@ -1,0 +1,12 @@
+Enter the amount: z10
+Please enter a valid positive amount!
+
+Enter the amount: 1150
+100 rupee note(s): 11
+50 rupee note(s): 1
+10 rupee note(s): 0
+
+Enter the amount: 111111111111111111111
+100 rupee note(s): 1111111111111111111
+50 rupee note(s): 0
+10 rupee note(s): 1
